@@ -1,1 +1,1 @@
-# ngx-advanced-routing
+# ngx-advanced-router
